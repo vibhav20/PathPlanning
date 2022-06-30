@@ -1,2 +1,3 @@
 # PathPlanning
-RRT Assignment ERC Bits Goa
+Path Planning Assignment for ERC Bits Goa
+Implemented RRT algorithm 
